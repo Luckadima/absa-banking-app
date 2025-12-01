@@ -1,0 +1,22 @@
+// import React from 'react';
+// import { View, StyleSheet } from 'react-native';
+// import { WebView } from 'react-native-webview';
+
+// export default function FaceIOPage() {
+//   return (
+//     <View style={styles.container}>
+//       <WebView 
+//         source={{ uri: "https://b2f014d39f28.ngrok-free.app/index.html" }} 
+//         style={{ flex: 1 }} 
+//         javaScriptEnabled={true}
+//         mediaPlaybackRequiresUserAction={false}
+//       />
+//     </View>
+//   );
+// }
+
+// const styles = StyleSheet.create({
+//   container: {
+//     flex: 1,
+//   },
+// });
